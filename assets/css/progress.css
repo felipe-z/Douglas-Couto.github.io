@@ -26,7 +26,7 @@
 	position:absolute;
 	top:0;
 	left:0;
-  width:180px;
+  width:120px;
 	font-weight:bold;
 	font-size:13px;
 	color:#ffffff;
@@ -44,7 +44,7 @@
 	display:block;
 	background:rgba(0, 0, 0, 0.1);
 	padding:0 20px;
-	height:28px;
+	height:56px;
 	line-height:28px;
 	-webkit-border-top-left-radius:3px;
 	-webkit-border-bottom-left-radius:3px;
