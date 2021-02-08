@@ -11,12 +11,12 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
-            link: 'https://douglas-couto.github.io/PDFs/CVDouglasCouto.pdf target="_blank">external link</a>' ,
-            title: 'TESTE',
+            image: 'assets/images/DrySump_oiltank.jpg',
+            link: 'https://douglas-couto.github.io/PDFs/DrySump_oiltank.pdf' ,
+            title: 'FSAE Dry Sump Oil Tank',
             demo: 'https://mporter.co',
-            technologies: ['Flask', 'Celery', 'Python'],
-            description: "TESTE DESCRICAO.",
+            technologies: ['CAD', 'GT-Suite', '1D'],
+            description: "This was a straight forward project where i enhanced an anterior design, making the final product better *and* cheaper to make, click on the image for a detailed overview.",
             categories: ['featured', 'webdev']
         },
         {
