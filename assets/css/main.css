@@ -282,7 +282,7 @@ img {
   color: #fff;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
-  background: url(../images/background3.jpg);
+  background: url(../images/background3.png);
   background-repeat: repeat;
   background-attachment: fixed;
 }
@@ -423,7 +423,7 @@ img {
 }
 
 #nav {
-  background: url(../images/background3.jpg);
+  background: url(../images/background3.png);
   background-repeat: repeat;
 }
 
