@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/mentors.jpg',
-            link: 'https://douglas-couto.github.io/PDFs/CVDouglasCouto.pdf',
+            link: 'https://douglas-couto.github.io/PDFs/CVDouglasCouto.pdf target="_blank">external link</a>' ,
             title: 'TESTE',
             demo: 'https://mporter.co',
             technologies: ['Flask', 'Celery', 'Python'],
